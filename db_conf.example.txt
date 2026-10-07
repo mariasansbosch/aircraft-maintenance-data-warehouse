@@ -1,0 +1,5 @@
+dbname=YOUR_DB_NAME
+user=YOUR_USER
+password=YOUR_PASSWORD
+ip=YOUR_HOST
+port=5432

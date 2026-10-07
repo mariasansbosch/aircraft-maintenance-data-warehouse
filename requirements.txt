@@ -1,0 +1,7 @@
+duckdb>=1.4
+pandas>=2.2
+numpy>=2.0
+pygrametl>=2.8
+psycopg[binary]>=3.2
+tqdm>=4.66
+pytest>=8.0
